@@ -1,0 +1,8 @@
+.avamatch_container {
+  display: flex;
+  padding: 40px 70px;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
